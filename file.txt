@@ -1,1 +1,2 @@
 "This is my DevOps lab file"  
+"This is new feature" 
